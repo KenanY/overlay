@@ -12,7 +12,7 @@
     "classes": "KenanY/classes",
     "component-emitter": "^1.1.2",
     "domify": "^1.2.2",
-    "showable": "KenanY/segmentio-showable"
+    "segmentio-showable": "KenanY/segmentio-showable"
   },
   "browserify": {
     "transform": ["brfs"]
