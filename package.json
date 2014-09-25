@@ -16,5 +16,6 @@
   },
   "browserify": {
     "transform": ["brfs"]
-  }
+  },
+  "private": true
 }
